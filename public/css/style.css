@@ -11,3 +11,7 @@ section:nth-child(2){
     border-bottom: red solid 5px;
 }
 
+section:nth-child(3) h1{
+    color: red;
+}
+
