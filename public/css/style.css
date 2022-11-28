@@ -3,7 +3,7 @@ section{
     border-bottom: black solid 1px;
 }
 
-section:nth-child(1) h4:first-child{
+section:first-child h4{
     color: rgb(47, 255, 0);
 }
 
