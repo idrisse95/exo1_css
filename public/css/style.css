@@ -3,15 +3,17 @@ section{
     border-bottom: black solid 1px;
 }
 
-h4:first-child{
-    color: blue;
+section h4:first-child{
+    color: rgb(47, 255, 0);
 }
 
 section:nth-child(2){
     border-bottom: red solid 5px;
 }
 
-section:nth-child(3) h1{
+section:nth-child(2) h1{
     color: red;
 }
-
+section:nth-child(3) h1,ul{
+    color: red;
+}
