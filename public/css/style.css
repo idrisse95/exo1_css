@@ -21,10 +21,10 @@ section:nth-child(3) h1,ul{
 section:nth-child(4) ul{
     color: black;
 }
-section:nth-child(4) li:nth-child(2){
+section:nth-child(4) ul>li>a{
     font-size: 30px;
 }
-section:nth-child(5) span+h3{
+section:nth-child(5) h3+span{
     color: rgb(89, 255, 0);
 }
 
